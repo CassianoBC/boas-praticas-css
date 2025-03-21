@@ -23,7 +23,7 @@
 .produto__descricao { /* elemento */
   color: gray;
 }
-.produto--em-destaque { /* modificador */
+.produtoem-destaque { /* modificador */
   border: 2px solid gold;
   padding: 8px;
   background-color: #ffff42;
